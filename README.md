@@ -1,1 +1,1 @@
-https://zena-git.github.io/Card_Info_v2
+https://zena-git.github.io/Card-Info-v2
